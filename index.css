@@ -1,0 +1,57 @@
+body{
+	background-color: #68cdd5;
+	margin: 0;
+	padding: 0;
+
+}
+p{	
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	font-size: 3vw;
+}
+.outbox{
+	overflow: hidden;
+}
+.toparrow{
+	float: left;
+	padding-top:2.0vh;
+	padding-left: 5.2vw;
+}
+.toparrow img{
+	width: 8.4vw;
+}
+.pttlogo{
+	float: left;
+	padding-top: 21.4vh;
+	padding-left: 22.5vw;
+}
+.pttlogo img{
+	width: 28.3vw;
+	padding-bottom: 10.6vh;
+}
+.ptt {	
+	padding-left: 14.1vw;
+	padding-right: 14.1vw;
+	padding-bottom: 15.2vh;
+}
+.buttom{
+	overflow: hidden;
+	padding-bottom: 17.8vh;
+}
+.box1{
+	padding-left: 21.4vw;
+	float: left;
+}
+.box1 img{
+	width:13.8vw;
+	padding-bottom: 1.8vh;
+}
+.box2{
+	float: right;
+	padding-right: 22.4vw;
+}
+.box2 img{
+	width:13.8vw;
+	padding-bottom: 1.8vh;
+}
