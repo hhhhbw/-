@@ -1,0 +1,89 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #eff0f4;
+	color:#fff;
+}
+input{
+	font-size: 16px;
+	height: 7.8vh;
+	width: 100vh;
+	padding-left: 16vw;
+}
+a{
+	color: #5fc0cd;
+}
+.header{
+	overflow: hidden;
+}
+.in{
+	font-size: 17px; 
+	line-height: 6.9vh;
+	width: 34px;
+	left: 0;
+	right: 0;
+	margin:0 auto;
+	position:fixed;
+}
+
+.off{
+	float: left;
+	padding-left: 4.2vw;
+	line-height: 6.9vh;
+}
+.creat{
+	float: right;
+	padding-right: 4.2vw;
+	line-height: 6.9vh;
+}
+.header{
+	height: 6.9vh;
+	background-color: #5fc0cd;
+}
+
+.forget{
+	float: right;
+	padding-right: 4.2vw;
+}
+.content{
+	padding: 1.2vh 0;
+}
+.usern{
+	padding-bottom: 1.2vh;
+}
+.uname{
+	position: fixed;
+	left: 6vw;
+	top: 9vh;
+	background-image: url(../img/phone.png);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	width: 27px;
+	height: 41px;
+	border-right: 2px solid #ddd;
+	padding-right: 3vw;
+}
+.upassword{
+	position: fixed;
+	left: 6vw;
+	top: 19vh;
+	background-image: url(../img/lock.png);
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	width: 29px;
+	height: 43px;
+	border-right: 2px solid #ddd;
+	padding-right: 3vw;
+}
+.login{
+	font-size: 17px; 
+	background-color: #5fc0cd;
+	height: 7.9vh;
+	line-height: 7.9vh;
+	margin: 0 auto;
+	text-align: center;
+}
+.footer{
+	overflow: hidden;
+}
+
